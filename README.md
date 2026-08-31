@@ -1,26 +1,32 @@
 # Brandon Nichols
 
-**Founder & Lead Engineer at Vyntechs. I build and operate products for industrial and operational work, using diagnostic discipline and agent systems to turn messy workflows into verified software.**
+**Lead automotive diagnostic technician and independent systems builder working where vehicles, software, controls, and test meet.**
 
-I started diagnosing vehicles at 14 and have worked professionally in automotive diagnostics since 2016. The operating habit carried into software: define the failure clearly, trace the system, test the cause, and verify the result.
+I am the Lead Technician at Young Motorsports LLC in Alvarado, Texas. I handle difficult gasoline and diesel failures across electrical, network, drivability, fuel-system, and control systems. The work is not guessing a part: reproduce the failure, compare commanded and actual behavior, separate bad hardware from bad wiring, data, software, or assumptions, and verify the result.
+
+Through Vyntechs, I turn the same method into software and tooling. I define the problem and required system behavior, inspect and debug the implementation, design acceptance checks, and decide when the result is actually done. I use AI-assisted implementation where it helps, but generated output is never the acceptance criterion—tests and observed behavior are.
+
+Earlier work through Dalcon included commercial electrical construction and industrial automation and controls, including outside-contractor work supporting UMC Energy.
+
+The next step I am targeting is vehicle-systems test, validation, integration, controls, or technical product work where real hardware, software, and data meet.
 
 ## Selected work
 
 ### [VynTechs Auto](https://github.com/Vyntechs/VynTechs_Auto)
 
-A safety-aware automotive diagnostic system built around evidence retrieval, stateful diagnostic trees, explicit risk classification, and confidence gates. The public repository proves the architecture and test discipline; it does not claim verified shop adoption.
+A source-available automotive diagnostic prototype built around evidence retrieval, stateful diagnostic trees, explicit risk classification, confidence gates, audit history, versioned migrations, and automated tests. Diagnostic guidance and operational file intake are intentionally unavailable to users; the repository is technical evidence, not repair instructions or a claim of live-shop deployment.
 
-### [tr1via](https://tr1via.com)
+### [TR1VIA](https://github.com/Vyntechs/Tr1via.com)
 
-A synchronized multiplayer trivia product with host, TV, and player surfaces backed by realtime state and multi-context browser tests. Publicly accessible at tr1via.com; no paid-event or venue-adoption claim is made here.
+A deployed realtime multiplayer product with synchronized host, venue-display, and player surfaces. The public repository includes recovery logic, database migrations, unit tests, and multi-context Playwright tests that exercise the surfaces together.
 
 ### [Agent on Demand](https://github.com/Vyntechs/AGENTONDEMAND-INSTALLER)
 
-A tested installer for a reusable AI-engineering operating system: planning, delegation, safety gates, lesson capture, and verification.
+A tested installer for a reusable AI-engineering operating system with planning rules, permission modes, safety hooks, delegation controls, lesson capture, and verification gates.
 
-## How I work
+## Working method
 
-I direct AI-assisted implementation, make the product and architecture decisions, inspect the work, and own verification. Tests, failure paths, and observable behavior—not generated output—decide whether something is done.
+Define the failure clearly. Preserve the evidence. Separate observation from interpretation. Choose the next test that distinguishes between possible causes. Verify the result under the conditions that originally produced the failure.
 
 Dallas–Fort Worth · on-site / hybrid / remote
 
