@@ -1,33 +1,24 @@
-# Brandon Nichols
+# Brandon Nichols · Vyntechs
 
-**Lead automotive diagnostic technician and independent systems builder working where vehicles, software, controls, and test meet.**
+I run Vyntechs, a local SEO business in Cleburne, Texas. I help Johnson County businesses show up on Google Maps and in search, and I do every part of the work myself.
 
-I am the Lead Technician at Young Motorsports LLC in Alvarado, Texas. I handle difficult gasoline and diesel failures across electrical, network, drivability, fuel-system, and control systems. The work is not guessing a part: reproduce the failure, compare commanded and actual behavior, separate bad hardware from bad wiring, data, software, or assumptions, and verify the result.
+## What I do
 
-Through Vyntechs, I turn the same method into software and tooling. I define the problem and required system behavior, inspect and debug the implementation, design acceptance checks, and decide when the result is actually done. I use AI-assisted implementation where it helps, but generated output is never the acceptance criterion—tests and observed behavior are.
+- **Google Business Profile:** set up, fix and keep up the listing that shows on Google Maps.
+- **Map ranking:** check where a business shows up street by street across Cleburne and Johnson County, then work the weak spots.
+- **Website pages:** pages that name the town and the work, so Google knows what you do and where.
+- **Citations:** the same name, address and phone on every directory that lists you.
+- **AI search:** clear business details so ChatGPT, Google's AI Overviews and Bing Copilot can describe you correctly.
 
-Earlier work through Dalcon included commercial electrical construction and industrial automation and controls, including outside-contractor work supporting UMC Energy.
+It starts with a free video of where your business shows up on Google around town. No long contracts.
 
-The next step I am targeting is vehicle-systems test, validation, integration, controls, or technical product work where real hardware, software, and data meet.
+## How I work
 
-## Selected work
+I've spent years diagnosing cars and trucks. Same habit here: find the real cause before changing anything, then check that the fix worked.
 
-### [VynTechs Auto](https://github.com/Vyntechs/VynTechs_Auto)
+## Other things I've built
 
-A source-available automotive diagnostic prototype built around evidence retrieval, stateful diagnostic trees, explicit risk classification, confidence gates, audit history, versioned migrations, and automated tests. Diagnostic guidance and operational file intake are intentionally unavailable to users; the repository is technical evidence, not repair instructions or a claim of live-shop deployment.
+- [TR1VIA](https://github.com/Vyntechs/Tr1via.com): live multiplayer trivia for venues.
+- [Agent on Demand](https://github.com/Vyntechs/AGENTONDEMAND-INSTALLER): the Claude Code setup I use.
 
-### [TR1VIA](https://github.com/Vyntechs/Tr1via.com)
-
-A deployed realtime multiplayer product with synchronized host, venue-display, and player surfaces. The public repository includes recovery logic, database migrations, unit tests, and multi-context Playwright tests that exercise the surfaces together.
-
-### [Agent on Demand](https://github.com/Vyntechs/AGENTONDEMAND-INSTALLER)
-
-A tested installer for a reusable AI-engineering operating system with planning rules, permission modes, safety hooks, delegation controls, lesson capture, and verification gates.
-
-## Working method
-
-Define the failure clearly. Preserve the evidence. Separate observation from interpretation. Choose the next test that distinguishes between possible causes. Verify the result under the conditions that originally produced the failure.
-
-Dallas–Fort Worth · on-site / hybrid / remote
-
-[LinkedIn](https://www.linkedin.com/in/brandon-nichols-7561a4b7/)
+Cleburne, Texas · 682-457-8510 · [vyntechs.com](https://vyntechs.com) · [LinkedIn](https://www.linkedin.com/in/brandonnichols360/)
